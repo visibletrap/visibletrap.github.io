@@ -6,7 +6,7 @@ I fall in love with Clojure/ClojureScript, have been using them primarily for th
 
 I’ve been doing Test-First for 7 years combining it with relatively recently known, incremental development with REPL. I know how to apply them practically. During development, I'm striving for simple design software. Love clean code and maintainability but do understand fast feedback loop, business urgency need and getting things done.
 
-I do have [some open source contributions](https://github.com/pulls?q=is%3Apublic+author%3Avisibletrap), specifically [code and docs contributions](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Apublic+author%3Avisibletrap) (requires Github account to view it).
+I do have [some open source contributions](https://github.com/issues?q=is%3Apublic+author%3Avisibletrap), specifically [code and docs contributions](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Apublic+author%3Avisibletrap) (requires Github account to view it).
 
 ### Find out more about me
 [English blog](http://visibletrap.blogger.com) where I note down technical solutions of the problems I have encountered there and sometimes do programming posts.
