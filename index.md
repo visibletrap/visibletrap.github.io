@@ -17,4 +17,4 @@ I do have [some open source contributions](https://github.com/issues?q=is%3Apubl
 
 [Twitter](http://www.twitter.com/visibletrap) I tweet there!.
 
-Founder and main contributor of [Clojure in Thai](https://www.facebook.com/groups/919377878100706) community.
+Founder and main contributor of [Clojure in Thai](https://www.facebook.com/groups/919377878100706) community. Made [a few Clojure screencasts](https://www.youtube.com/playlist?list=PLFaUn2xiRoHNEslkhsdqsTArP6gjRKksj). Gave some Clojure training and talks which [one of them is recorded](https://www.youtube.com/watch?v=PHkGTkBDzj4)
