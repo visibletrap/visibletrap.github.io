@@ -1,10 +1,10 @@
-Hi. I'm Nuttanart Pornprasitsakul or you can call me Tap. I'm a programmer originally from Thailand, currently living in Guangzhou, China.
+Hi. I'm Nuttanart Pornprasitsakul or you can call me Tap. I'm a programmer from Thailand.
 
-I've been working professionally for 8 years, mostly full-stack, loves all the backend works while have lesser experiences in UI design and CSS. My past works includes automate server provisioning, system monitoring, deployment pipeline, performance tuning, data import, data processing, mid-scale refactoring, web api, multiple services system, rich client-side browser based app, queueing system and high-traffic system.
+I've been working professionally for 9 years, mostly full-stack. My past works include automate server provisioning, system monitoring, deployment pipeline, load testing, performance tuning, data import, data processing, mid-scale refactoring, web api, multiple services system, rich client-side browser based app, queueing system and high-traffic system.
 
-I fall in love with Clojure/ClojureScript, have been using them primarily for the past 2 years. I do also have a huge familiarity with Ruby on Rails, PostgreSQL, Redis, Ansible and Unix (OS X and Debian family). Some other technologies which I have significant experiences are Java, JavaScript, RabbitMQ Docker and AWS platform.
+I fall in love with Clojure/ClojureScript, have been using them primarily for the past 3 years. I do also have a huge familiarity with PostgreSQL, Redis, Ansible and Unix (OS X and Debian family). Some other technologies which I have significant experience with are Ruby on Rails, Java, JavaScript, RabbitMQ, Docker and AWS platform.
 
-I’ve been doing Test-First for 7 years combining it with relatively recently known, incremental development with REPL. I know how to apply them practically. During development, I'm striving for simple design software. Love clean code and maintainability but do understand fast feedback loop, business urgency need and getting things done.
+I have a good understanding of software design, development agility, DevOps, Continuous Delivery, Test-first development and REPL Driven Development. I'm striving for simple design software. Love clean code and maintainability but do understand fast feedback loop, business urgency needs and getting things done.
 
 I do have [some open source contributions](https://github.com/issues?q=is%3Apublic+author%3Avisibletrap), specifically [code and docs contributions](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Apublic+author%3Avisibletrap) (requires Github account to view it).
 
