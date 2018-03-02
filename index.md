@@ -4,7 +4,9 @@ I've been working professionally for 9 years, mostly full-stack. My past works i
 
 I fall in love with Clojure/ClojureScript, have been using them primarily for the past 3 years. I do also have a huge familiarity with PostgreSQL, Redis, Ansible and Unix (OS X and Debian family). Some other technologies which I have significant experience with are Ruby on Rails, Java, JavaScript, RabbitMQ, Docker and AWS platform.
 
-I have a good understanding of software design, development agility, DevOps, Continuous Delivery, Test-first development and REPL Driven Development. I'm striving for simple design software. Love clean code and maintainability but do understand fast feedback loop, business urgency needs and getting things done.
+I have a good understanding of software design, development agility, devops, continuous delivery, test-first development and incremental development via repl.
+
+I always strive for simple design software. Love clean code and maintainability but do understand fast feedback loop, business urgency needs and getting things done.
 
 I do have [some open source contributions](https://github.com/issues?q=is%3Apublic+author%3Avisibletrap), specifically [code and docs contributions](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Apublic+author%3Avisibletrap) (requires Github account to view it).
 
