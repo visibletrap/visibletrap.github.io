@@ -1,8 +1,8 @@
 Hi. I'm Nuttanart Pornprasitsakul or you can call me Tap. I'm a programmer from Thailand.
 
-I've been working professionally for 9 years, mostly full-stack. My past works include automate server provisioning, system monitoring, deployment pipeline, load testing, performance tuning, data import, data processing, mid-scale refactoring, web api, multiple services system, rich client-side browser based app, queueing system and high-traffic system.
+I've been working professionally for 10 years, mostly full-stack. My past works include automate server provisioning, system monitoring, deployment pipeline, load testing, performance tuning, data import, data processing, mid-scale refactoring, web api, multiple services system, rich client-side browser based app, queueing system and high-traffic system.
 
-I fall in love with Clojure/ClojureScript, have been using them primarily for the past 3 years. I do also have a huge familiarity with PostgreSQL, Redis, Ansible and Unix (OS X and Debian family). Some other technologies which I have significant experience with are Ruby on Rails, Java, JavaScript, RabbitMQ, Docker and AWS platform.
+I fall in love with Clojure/ClojureScript, have been using them primarily for the past 4 years. I do also have a huge familiarity with PostgreSQL, Redis, Ansible and Unix (OS X and Debian family). Some other technologies which I have significant experience with are Ruby on Rails, Java, JavaScript, RabbitMQ, Docker and AWS platform.
 
 I have a good understanding of software design, development agility, devops, continuous delivery, test-first development and incremental development via repl.
 
